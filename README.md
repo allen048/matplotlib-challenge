@@ -18,7 +18,7 @@ o	Correlation and Regression: In dealing with correlation, the relationship betw
 
 •	Module 5 Challenge Citation:
               'Title:<pymaceuticals_starter.ipynb>
-              'Author:<Qasim Khiji>
+              'Author:<Qasim>
               'Date:<2023>
               'Code Version:<1.0>
               'Availability:<https://github.com/mqkhilji/pyplot-matplotlib/blob/main/pymaceuticals_starter.ipynb>
