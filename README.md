@@ -1,5 +1,6 @@
 # matplotlib-challenge
 •	Module 5 Challenge Analysis:
+
 o	Summary:  This challenge was broken down into several tasks to display data from the mouse_metadata.csv and study_results.csv files.   These files have been used to create various charts and graphs to analyze the information for mice who have been diagnosed with squamous cell carcinoma (SCC), a form of skin cancer. We will be using data visualization to understand the qualitative and quantitative data gathered from the tumor development of the mice.
 
 o	Prepare the data: The source data has been compiled into two csv files, mouse_metadata and study_results. They are DataFrames that have been organized into a single DataFrame using jupyter notebook. One of the objectives was to find each distinct mouse. I used python code to complete these exercises.
