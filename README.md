@@ -16,6 +16,7 @@ o	Create a Line Plot and a Scatter Plot: I selected mouse b128 for this task. Th
 o	Correlation and Regression: In dealing with correlation, the relationship between the mouse weight and average tumor volume for Capomulin produced a value of 0.84. This is a good relationship for these variables. The linear regression shows the relationship between two variables. In this observation, we’re determining the valued relationship between mouse weight and average tumor volume.
 
 
+
 •	Module 5 Challenge Citation:
               'Title:<pymaceuticals_starter.ipynb>
               'Author:Qasim Khilji
