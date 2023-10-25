@@ -9,7 +9,7 @@ o	Generate Summary Statistics: This assignment involved calculating the summary 
 
 o	Create Bar Charts and Pie Charts: In this study, it required creating two bar charts with similar data. One involved creating a DataFrame using Pandas and the other required using Matplotlib to visually display the data for each method. The data consists of drug regimens and their counts. Also, it involved creating two pie charts using the same methods that was needed to create the bar charts. This displayed the distribution of males vs. females for this analysis.
 
-o	Calculate Quartiles, Find Outliers, and Create a Box Plot: The quartiles are a distribution of the four equal regimens, which is Capomulin, Ramicane, Infubinol, and Ceftamin. There does seem to be outliers in this group of treatments. The box plot shows that there seems to be some commonalities in these treatments at a minimum.
+o	Calculate Quartiles, Find Outliers, and Create a Box Plot: The quartiles are a distribution of the four equal regimens, which is Capomulin, Ramicane, Infubinol, and Ceftamin. There does seem to be outliers in this group of treatments. The box plot shows that there are some commonalities in these treatments at a minimum.
 
 o	Create a Line Plot and a Scatter Plot: I selected mouse b128 for this task. The line plot showed a decrease in tumor volume as the time point increased. The scatter plot showed values (tumor volume) for each individual data point (time point).
 
