@@ -11,7 +11,7 @@ o	Create Bar Charts and Pie Charts: In this study, it required creating two bar 
 
 o	Calculate Quartiles, Find Outliers, and Create a Box Plot: The quartiles are a distribution of the four equal regimens, which is Capomulin, Ramicane, Infubinol, and Ceftamin. There does seem to be outliers in this group of treatments. The box plot shows that there are some commonalities in these treatments at a minimum.
 
-o	Create a Line Plot and a Scatter Plot: I selected mouse b128 for this task. The line plot showed a decrease in tumor volume as the time point increased. The scatter plot showed values (tumor volume) for each individual data point (time point).
+o	Create a Line Plot and a Scatter Plot: I selected mouse b128 for this task. The line plot showed a decrease in tumor volume as the time point increase. The scatter plot showed values (tumor volume) for each individual data point (time point).
 
 o	Correlation and Regression: In dealing with correlation, the relationship between the mouse weight and average tumor volume for Capomulin produced a value of 0.84. This is a good relationship for these variables. The linear regression shows the relationship between two variables. In this observation, we’re determining the valued relationship between mouse weight and average tumor volume.
 
