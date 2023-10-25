@@ -23,7 +23,7 @@ o	Correlation and Regression: In dealing with correlation, the relationship betw
               'Code Version:<1.0>
               'Availability:<https://github.com/mqkhilji/pyplot-matplotlib/blob/main/pymaceuticals_starter.ipynb>
 
-
+I worked with Qasim, my classmate, to complete this assignment.
 
 
 ![image](https://github.com/allen048/matplotlib-challenge/assets/143147687/ca76060e-8bd2-4dd5-a839-7fd2c5913ce1)
